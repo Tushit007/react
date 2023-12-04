@@ -1,0 +1,5 @@
+Context Api 
+Server side vs Client side rendering 
+How to do Server side rendering (next mai default mein server side rendering hota hai)
+Deployment via Netlify
+Showing flash messages(react toastify)
